@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/Akshay0231/react-19-boilerplate/issues"
   },
-  "homepage": "https://github.com/Akshay0231/react-19-boilerplate#readme"
+  "homepage": "https://github.com/Akshay0231/react-19-boilerplate#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^6.28.1"
+  }
 }
