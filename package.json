@@ -1,0 +1,25 @@
+{
+  "name": "react-19-boilerplate",
+  "version": "1.0.0",
+  "description": "react19-boilerplate/ <br />\r │ <br />\r ├── public/ <br />\r │   └── index.html\r │ <br />\r ├── src/ <br />\r │   ├── components/ <br />\r │   │   ├── Auth/ <br />\r │   │   │   ├── Login.jsx <br />\r │   │   │   ├── Signup.jsx <br />\r │   │   │   └── SessionContext.js <br />\r │   │   ├── App.jsx <br />\r │   │   └── Home.jsx <br />\r │   ├── redux/ <br />\r │   │   ├── store.js <br />\r │   │   └── slices/ <br />\r │   │       └── userSlice.js <br />\r │   ├── routes/ <br />\r │   │   └── AppRouter.jsx <br />\r │   └── index.js <br />\r │ <br />\r ├── .babelrc <br />\r ├── .eslintrc.js <br />\r ├── package.json <br />\r ├── webpack.config.js <br />\r └── README.md <br />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshay0231/react-19-boilerplate.git"
+  },
+  "keywords": [
+    "React19",
+    "React",
+    "Redux",
+    "Boilerplate"
+  ],
+  "author": "Akshay Kumbhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshay0231/react-19-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Akshay0231/react-19-boilerplate#readme"
+}
